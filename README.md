@@ -10,6 +10,4 @@ For help getting started with Flutter, view our online
 # Sample flutter project for GDG New Delhi's Flutter Extended registration
 # _Sample Screenshot of the app running_
 
-![alt text][Running App]
-
-[Running App](pictures/screenshot.png)
+!(pictures/screenshot.png)
